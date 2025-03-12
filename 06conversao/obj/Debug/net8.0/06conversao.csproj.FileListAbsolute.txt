@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/bin/Debug/net8.0/06conversao
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/bin/Debug/net8.0/06conversao.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/bin/Debug/net8.0/06conversao.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/bin/Debug/net8.0/06conversao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/bin/Debug/net8.0/06conversao.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/refint/06conversao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/06conversao.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/06conversao/obj/Debug/net8.0/ref/06conversao.dll
