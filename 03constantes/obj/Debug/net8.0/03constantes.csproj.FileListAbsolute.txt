@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/bin/Debug/net8.0/03constantes
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/bin/Debug/net8.0/03constantes.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/bin/Debug/net8.0/03constantes.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/bin/Debug/net8.0/03constantes.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/bin/Debug/net8.0/03constantes.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/refint/03constantes.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/03constantes.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/03constantes/obj/Debug/net8.0/ref/03constantes.dll
