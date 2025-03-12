@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "15switch_expression/1.0.0": {
+        "runtime": {
+          "15switch_expression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "15switch_expression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

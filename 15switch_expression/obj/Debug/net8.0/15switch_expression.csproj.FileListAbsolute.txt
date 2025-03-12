@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/bin/Debug/net8.0/15switch_expression
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/bin/Debug/net8.0/15switch_expression.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/bin/Debug/net8.0/15switch_expression.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/bin/Debug/net8.0/15switch_expression.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/bin/Debug/net8.0/15switch_expression.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/refint/15switch_expression.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/15switch_expression.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/15switch_expression/obj/Debug/net8.0/ref/15switch_expression.dll

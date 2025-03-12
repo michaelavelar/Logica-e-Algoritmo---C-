@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/bin/Debug/net8.0/14estrutura_de_escolha
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/bin/Debug/net8.0/14estrutura_de_escolha.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/bin/Debug/net8.0/14estrutura_de_escolha.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/bin/Debug/net8.0/14estrutura_de_escolha.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/bin/Debug/net8.0/14estrutura_de_escolha.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/refint/14estrutura_de_escolha.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/14estrutura_de_escolha.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/14estrutura_de_escolha/obj/Debug/net8.0/ref/14estrutura_de_escolha.dll
