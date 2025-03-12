@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/bin/Debug/net8.0/08operadores_relacionais.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/refint/08operadores_relacionais.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/08operadores_relacionais.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/08operadores_relacionais/obj/Debug/net8.0/ref/08operadores_relacionais.dll
