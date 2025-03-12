@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/bin/Debug/net8.0/10condicionais_simples
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/bin/Debug/net8.0/10condicionais_simples.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/bin/Debug/net8.0/10condicionais_simples.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/bin/Debug/net8.0/10condicionais_simples.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/bin/Debug/net8.0/10condicionais_simples.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/refint/10condicionais_simples.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/10condicionais_simples.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/10condicionais_simples/obj/Debug/net8.0/ref/10condicionais_simples.dll

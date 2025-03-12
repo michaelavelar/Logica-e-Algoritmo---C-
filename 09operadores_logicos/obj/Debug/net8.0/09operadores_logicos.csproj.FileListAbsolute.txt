@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/bin/Debug/net8.0/09operadores_logicos.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/refint/09operadores_logicos.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/09operadores_logicos.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/09operadores_logicos/obj/Debug/net8.0/ref/09operadores_logicos.dll
