@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/bin/Debug/net8.0/17laco_faca_enquando
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/bin/Debug/net8.0/17laco_faca_enquando.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/bin/Debug/net8.0/17laco_faca_enquando.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/bin/Debug/net8.0/17laco_faca_enquando.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/bin/Debug/net8.0/17laco_faca_enquando.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/refint/17laco_faca_enquando.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/17laco_faca_enquando.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/17laco_faca_enquando/obj/Debug/net8.0/ref/17laco_faca_enquando.dll

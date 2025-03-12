@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/bin/Debug/net8.0/21matriz
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/bin/Debug/net8.0/21matriz.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/bin/Debug/net8.0/21matriz.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/bin/Debug/net8.0/21matriz.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/bin/Debug/net8.0/21matriz.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/refint/21matriz.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/21matriz.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/21matriz/obj/Debug/net8.0/ref/21matriz.dll

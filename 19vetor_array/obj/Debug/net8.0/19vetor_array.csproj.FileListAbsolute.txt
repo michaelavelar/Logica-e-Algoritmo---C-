@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/bin/Debug/net8.0/19vetor_array
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/bin/Debug/net8.0/19vetor_array.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/bin/Debug/net8.0/19vetor_array.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/bin/Debug/net8.0/19vetor_array.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/bin/Debug/net8.0/19vetor_array.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/refint/19vetor_array.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/19vetor_array.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/Debug/net8.0/ref/19vetor_array.dll

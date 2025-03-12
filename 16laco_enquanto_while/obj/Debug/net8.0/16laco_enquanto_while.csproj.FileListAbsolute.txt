@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/bin/Debug/net8.0/16laco_enquanto_while
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/bin/Debug/net8.0/16laco_enquanto_while.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/bin/Debug/net8.0/16laco_enquanto_while.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/bin/Debug/net8.0/16laco_enquanto_while.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/bin/Debug/net8.0/16laco_enquanto_while.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/refint/16laco_enquanto_while.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/16laco_enquanto_while.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/16laco_enquanto_while/obj/Debug/net8.0/ref/16laco_enquanto_while.dll

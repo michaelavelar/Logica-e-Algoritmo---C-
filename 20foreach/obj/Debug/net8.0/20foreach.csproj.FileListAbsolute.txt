@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/bin/Debug/net8.0/20foreach
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/bin/Debug/net8.0/20foreach.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/bin/Debug/net8.0/20foreach.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/bin/Debug/net8.0/20foreach.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/bin/Debug/net8.0/20foreach.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/refint/20foreach.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/20foreach.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/20foreach/obj/Debug/net8.0/ref/20foreach.dll

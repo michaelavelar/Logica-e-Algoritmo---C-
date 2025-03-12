@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/bin/Debug/net8.0/18laco_para_for
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/bin/Debug/net8.0/18laco_para_for.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/bin/Debug/net8.0/18laco_para_for.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/bin/Debug/net8.0/18laco_para_for.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/bin/Debug/net8.0/18laco_para_for.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/refint/18laco_para_for.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/18laco_para_for.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/18laco_para_for/obj/Debug/net8.0/ref/18laco_para_for.dll
