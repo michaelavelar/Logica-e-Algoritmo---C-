@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/bin/Debug/net8.0/13operadores_ternarios
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/bin/Debug/net8.0/13operadores_ternarios.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/bin/Debug/net8.0/13operadores_ternarios.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/bin/Debug/net8.0/13operadores_ternarios.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/bin/Debug/net8.0/13operadores_ternarios.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/refint/13operadores_ternarios.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/13operadores_ternarios.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/13operadores_ternarios/obj/Debug/net8.0/ref/13operadores_ternarios.dll

@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/bin/Debug/net8.0/12condinais_e_operadoreslogicos
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/bin/Debug/net8.0/12condinais_e_operadoreslogicos.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/bin/Debug/net8.0/12condinais_e_operadoreslogicos.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/bin/Debug/net8.0/12condinais_e_operadoreslogicos.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/bin/Debug/net8.0/12condinais_e_operadoreslogicos.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/refint/12condinais_e_operadoreslogicos.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/12condinais_e_operadoreslogicos.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/12condinais_e_operadoreslogicos/obj/Debug/net8.0/ref/12condinais_e_operadoreslogicos.dll

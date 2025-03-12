@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/bin/Debug/net8.0/11condicionais_encadeadas
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/bin/Debug/net8.0/11condicionais_encadeadas.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/bin/Debug/net8.0/11condicionais_encadeadas.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/bin/Debug/net8.0/11condicionais_encadeadas.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/bin/Debug/net8.0/11condicionais_encadeadas.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/refint/11condicionais_encadeadas.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/11condicionais_encadeadas.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/11condicionais_encadeadas/obj/Debug/net8.0/ref/11condicionais_encadeadas.dll
