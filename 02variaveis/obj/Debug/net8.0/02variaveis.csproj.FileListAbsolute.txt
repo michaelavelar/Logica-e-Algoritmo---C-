@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/bin/Debug/net8.0/02variaveis
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/bin/Debug/net8.0/02variaveis.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/bin/Debug/net8.0/02variaveis.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/bin/Debug/net8.0/02variaveis.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/bin/Debug/net8.0/02variaveis.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/refint/02variaveis.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/02variaveis.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/02variaveis/obj/Debug/net8.0/ref/02variaveis.dll
