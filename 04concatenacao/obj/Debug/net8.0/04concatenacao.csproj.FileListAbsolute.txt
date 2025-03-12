@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/bin/Debug/net8.0/04concatenacao
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/bin/Debug/net8.0/04concatenacao.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/bin/Debug/net8.0/04concatenacao.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/bin/Debug/net8.0/04concatenacao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/bin/Debug/net8.0/04concatenacao.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/refint/04concatenacao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/04concatenacao.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/04concatenacao/obj/Debug/net8.0/ref/04concatenacao.dll
