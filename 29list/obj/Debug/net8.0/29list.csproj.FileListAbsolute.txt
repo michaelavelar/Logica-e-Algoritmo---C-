@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/bin/Debug/net8.0/29list
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/bin/Debug/net8.0/29list.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/bin/Debug/net8.0/29list.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/bin/Debug/net8.0/29list.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/bin/Debug/net8.0/29list.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/refint/29list.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/29list.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/29list/obj/Debug/net8.0/ref/29list.dll
