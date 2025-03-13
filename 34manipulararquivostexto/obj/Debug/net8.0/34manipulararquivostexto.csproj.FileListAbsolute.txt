@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/bin/Debug/net8.0/34manipulararquivostexto
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/bin/Debug/net8.0/34manipulararquivostexto.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/bin/Debug/net8.0/34manipulararquivostexto.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/bin/Debug/net8.0/34manipulararquivostexto.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/bin/Debug/net8.0/34manipulararquivostexto.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/refint/34manipulararquivostexto.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/34manipulararquivostexto.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/34manipulararquivostexto/obj/Debug/net8.0/ref/34manipulararquivostexto.dll

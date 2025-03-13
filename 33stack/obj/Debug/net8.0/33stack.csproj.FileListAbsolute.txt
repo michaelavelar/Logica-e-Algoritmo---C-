@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/bin/Debug/net8.0/33stack
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/bin/Debug/net8.0/33stack.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/bin/Debug/net8.0/33stack.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/bin/Debug/net8.0/33stack.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/bin/Debug/net8.0/33stack.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/refint/33stack.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/33stack.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/33stack/obj/Debug/net8.0/ref/33stack.dll
