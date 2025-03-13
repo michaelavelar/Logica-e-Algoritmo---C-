@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/bin/Debug/net8.0/28arraylist
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/bin/Debug/net8.0/28arraylist.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/bin/Debug/net8.0/28arraylist.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/bin/Debug/net8.0/28arraylist.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/bin/Debug/net8.0/28arraylist.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/refint/28arraylist.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/28arraylist.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/28arraylist/obj/Debug/net8.0/ref/28arraylist.dll
