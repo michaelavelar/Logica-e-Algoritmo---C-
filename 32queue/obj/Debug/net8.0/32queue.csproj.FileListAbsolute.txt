@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/bin/Debug/net8.0/32queue
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/bin/Debug/net8.0/32queue.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/bin/Debug/net8.0/32queue.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/bin/Debug/net8.0/32queue.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/bin/Debug/net8.0/32queue.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/refint/32queue.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/32queue.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/32queue/obj/Debug/net8.0/ref/32queue.dll

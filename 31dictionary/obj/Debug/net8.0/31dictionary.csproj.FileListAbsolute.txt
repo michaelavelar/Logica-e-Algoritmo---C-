@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/bin/Debug/net8.0/31dictionary
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/bin/Debug/net8.0/31dictionary.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/bin/Debug/net8.0/31dictionary.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/bin/Debug/net8.0/31dictionary.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/bin/Debug/net8.0/31dictionary.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/refint/31dictionary.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/31dictionary.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/31dictionary/obj/Debug/net8.0/ref/31dictionary.dll
