@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/bin/Debug/net8.0/22enums
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/bin/Debug/net8.0/22enums.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/bin/Debug/net8.0/22enums.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/bin/Debug/net8.0/22enums.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/bin/Debug/net8.0/22enums.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/refint/22enums.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/22enums.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/22enums/obj/Debug/net8.0/ref/22enums.dll
