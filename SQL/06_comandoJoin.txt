@@ -1,0 +1,19 @@
+Um dos conceitos fundamentais da linguagem SQL é o Join, que é utilizado para combinar informações de duas ou mais tabelas em um único resultado. O Join é uma operação muito poderosa e versátil, pois permite que você extraia dados de diferentes tabelas com base em uma condição específica.
+
+Em termos simples, o Join combina colunas relacionadas de duas tabelas e retorna apenas as linhas que atendem a uma determinada condição. Isso permite que você consulte dados de várias tabelas simultaneamente, obtendo informações mais completas e precisas.
+
+Tipos de Join SQL
+Inner Join
+O Inner Join retorna apenas as linhas que possuem correspondência em ambas as tabelas envolvidas. Ele combina as linhas das tabelas com base em uma condição de igualdade, permitindo que você obtenha apenas os registros relacionados.
+
+Left Join
+O Left Join retorna todas as linhas da tabela da esquerda e as linhas correspondentes da tabela da direita. Mesmo que não haja correspondência na tabela da direita, o Left Join ainda retorna as linhas da tabela da esquerda. Isso é útil quando você deseja obter todos os registros de uma tabela, independentemente de haver correspondência na tabela relacionada.
+
+Right Join
+O Right Join é o oposto do Left Join, retornando todas as linhas da tabela da direita e as linhas correspondentes da tabela da esquerda. Da mesma forma, mesmo que não haja correspondência na tabela da esquerda, o Right Join ainda retorna as linhas da tabela da direita. É importante ressaltar que nem todos os bancos de dados suportam o Right Join, mas a maioria dos sistemas SQL populares o suporta.
+
+Full Outer Join
+O Full Outer Join retorna todas as linhas de ambas as tabelas, independentemente de haver correspondência ou não. Ele combina as linhas das tabelas com base em uma condição de igualdade, permitindo que você obtenha todos os registros, incluindo aqueles que não têm correspondência.
+
+Utilizando Joins SQL em suas consultas
+Para utilizar um Join, você precisa especificar a condição de igualdade que será usada para combinar as linhas das tabelas. Essa condição é definida por meio de uma cláusula chamada ON, seguida pela especificação das colunas que serão comparadas.

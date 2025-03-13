@@ -1,0 +1,59 @@
+Unidade para armazenar dados, formados por linhas e colunas
+
+
+COMANDO PARA CRIAR TABELA
+
+SINTAXE => CREATE TABLE NOME_CLIENTE(
+ATRIBUTO_1  TIPO_DOMINIO_1  RESTRICAO,
+ATRIBUTO_2  TIPO_DOMINIO_2  RESTRICAO.    
+)
+
+
+===============================
+
+
+TIPOS DE DADOS (caracteristica do atributo)
+
+    char(n): uma string de caratcteres de tamanho fixo, com tamanho n
+
+    varchar(n): uma string de caracteres de tamanho variavel, com tamanho maximo n
+
+    int ou integer: numero inteiro
+
+    smallint: numero inteiro pequeno
+
+    float: numeros com pontuacoes
+
+    Date: string de caracteres com formato de data(DD/MM/AAAA)
+
+
+=================================
+
+
+RESTRICOES (pre requisitos para um atributo)
+
+    Not Null = Deve ser obrigatoriamente preenchido
+    Default = Deve ter um valor padrao especificado
+    Unique = Validar para nao repetir valores para atributos
+    Check = Veriica se o valor inserido é permitido para o atributo
+
+
+===================================
+
+
+Exemplos
+
+CREATE TABLE ALUNO(
+    ID_REGIONAL INT NOT NULL,
+    NOME VARCHAR(100) NOT NULL,
+    AREA FLOAT NOT NULL,
+    EMAIL VARCHAR(100) NOT NULL,
+    MATRICULA INT NOT NULL
+)
+
+CREATE TABLE REGIONAL(
+    ID_REGIONAL INT NOT NULL,
+    REGIONAL VARCHAR(100)
+)
+
+
