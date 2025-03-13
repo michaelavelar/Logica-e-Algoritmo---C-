@@ -1,0 +1,15 @@
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.AssemblyInfoInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.AssemblyInfo.cs
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.csproj.CoreCompileInputs.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.sourcelink.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/bin/Debug/net8.0/23Tratamento_excecao
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/bin/Debug/net8.0/23Tratamento_excecao.deps.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/bin/Debug/net8.0/23Tratamento_excecao.runtimeconfig.json
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/bin/Debug/net8.0/23Tratamento_excecao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/bin/Debug/net8.0/23Tratamento_excecao.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/refint/23Tratamento_excecao.dll
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.pdb
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/23Tratamento_excecao.genruntimeconfig.cache
+/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23tratamento_excecao/obj/Debug/net8.0/ref/23Tratamento_excecao.dll
