@@ -158,19 +158,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/michaelavelar/.nuget/packages/": {}
+    "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/27nuget/27nuget.csproj",
+      "projectUniqueName": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\27nuget\\27nuget.csproj",
       "projectName": "27nuget",
-      "projectPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/27nuget/27nuget.csproj",
-      "packagesPath": "/Users/michaelavelar/.nuget/packages/",
-      "outputPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/27nuget/obj/",
+      "projectPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\27nuget\\27nuget.csproj",
+      "packagesPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\27nuget\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/michaelavelar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -220,7 +220,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

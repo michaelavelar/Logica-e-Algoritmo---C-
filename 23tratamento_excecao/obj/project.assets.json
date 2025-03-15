@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/michaelavelar/.nuget/packages/": {}
+    "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23Tratamento_excecao/23Tratamento_excecao.csproj",
+      "projectUniqueName": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\23tratamento_excecao\\23Tratamento_excecao.csproj",
       "projectName": "23Tratamento_excecao",
-      "projectPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23Tratamento_excecao/23Tratamento_excecao.csproj",
-      "packagesPath": "/Users/michaelavelar/.nuget/packages/",
-      "outputPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/23Tratamento_excecao/obj/",
+      "projectPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\23tratamento_excecao\\23Tratamento_excecao.csproj",
+      "packagesPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\23tratamento_excecao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/michaelavelar/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

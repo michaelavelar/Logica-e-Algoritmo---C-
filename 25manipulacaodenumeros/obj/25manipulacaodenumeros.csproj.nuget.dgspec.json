@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/25manipulacaodenumeros/25manipulacaodenumeros.csproj": {}
+    "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\25manipulacaodenumeros\\25manipulacaodenumeros.csproj": {}
   },
   "projects": {
-    "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/25manipulacaodenumeros/25manipulacaodenumeros.csproj": {
+    "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\25manipulacaodenumeros\\25manipulacaodenumeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/25manipulacaodenumeros/25manipulacaodenumeros.csproj",
+        "projectUniqueName": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\25manipulacaodenumeros\\25manipulacaodenumeros.csproj",
         "projectName": "25manipulacaodenumeros",
-        "projectPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/25manipulacaodenumeros/25manipulacaodenumeros.csproj",
-        "packagesPath": "/Users/michaelavelar/.nuget/packages/",
-        "outputPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/25manipulacaodenumeros/obj/",
+        "projectPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\25manipulacaodenumeros\\25manipulacaodenumeros.csproj",
+        "packagesPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\25manipulacaodenumeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/michaelavelar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

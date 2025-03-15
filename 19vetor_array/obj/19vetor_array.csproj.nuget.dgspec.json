@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/19vetor_array.csproj": {}
+    "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\19vetor_array\\19vetor_array.csproj": {}
   },
   "projects": {
-    "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/19vetor_array.csproj": {
+    "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\19vetor_array\\19vetor_array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/19vetor_array.csproj",
+        "projectUniqueName": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\19vetor_array\\19vetor_array.csproj",
         "projectName": "19vetor_array",
-        "projectPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/19vetor_array.csproj",
-        "packagesPath": "/Users/michaelavelar/.nuget/packages/",
-        "outputPath": "/Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/19vetor_array/obj/",
+        "projectPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\19vetor_array\\19vetor_array.csproj",
+        "packagesPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\Desktop\\Logica-e-Algoritmo---C-\\19vetor_array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/michaelavelar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\RAQUELTIMOTEOTEIXEIR\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

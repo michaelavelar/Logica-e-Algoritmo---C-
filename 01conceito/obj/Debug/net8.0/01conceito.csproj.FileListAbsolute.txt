@@ -13,3 +13,18 @@
 /Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/01conceito/obj/Debug/net8.0/01conceito.pdb
 /Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/01conceito/obj/Debug/net8.0/01conceito.genruntimeconfig.cache
 /Users/michaelavelar/Documents/Pessoais /Logica e Algoritmo - C#/01conceito/obj/Debug/net8.0/ref/01conceito.dll
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\bin\Debug\net8.0\01conceito.exe
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\bin\Debug\net8.0\01conceito.deps.json
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\bin\Debug\net8.0\01conceito.runtimeconfig.json
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\bin\Debug\net8.0\01conceito.dll
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\bin\Debug\net8.0\01conceito.pdb
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.AssemblyInfoInputs.cache
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.AssemblyInfo.cs
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.csproj.CoreCompileInputs.cache
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.sourcelink.json
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.dll
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\refint\01conceito.dll
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.pdb
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\01conceito.genruntimeconfig.cache
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\01conceito\obj\Debug\net8.0\ref\01conceito.dll
