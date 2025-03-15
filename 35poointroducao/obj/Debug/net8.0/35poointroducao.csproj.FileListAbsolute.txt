@@ -1,0 +1,15 @@
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\bin\Debug\net8.0\35poointroducao.exe
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\bin\Debug\net8.0\35poointroducao.deps.json
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\bin\Debug\net8.0\35poointroducao.runtimeconfig.json
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\bin\Debug\net8.0\35poointroducao.dll
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\bin\Debug\net8.0\35poointroducao.pdb
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.AssemblyInfoInputs.cache
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.AssemblyInfo.cs
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.csproj.CoreCompileInputs.cache
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.sourcelink.json
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.dll
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\refint\35poointroducao.dll
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.pdb
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\35poointroducao.genruntimeconfig.cache
+C:\Users\RAQUELTIMOTEOTEIXEIR\Desktop\Logica-e-Algoritmo---C-\35poointroducao\obj\Debug\net8.0\ref\35poointroducao.dll
